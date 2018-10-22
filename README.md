@@ -1,0 +1,1 @@
+# smartmet-test-data-gis
